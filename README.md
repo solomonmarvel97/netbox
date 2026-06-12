@@ -109,4 +109,4 @@ See [`docs/ELECTRON.md`](docs/ELECTRON.md) for packaging details and code-signin
 
 ## Authorship
 
-Architecture and product direction by [Marvelous Solomon](https://github.com/solomonmarvel97). Implementation was produced primarily through AI-assisted development.
+By [Marvelous Solomon](https://github.com/solomonmarvel97).
